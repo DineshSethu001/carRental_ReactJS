@@ -1,12 +1,83 @@
-# React + Vite
+# 🚗 Car Rental Website – React JS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive **Car Rental Website** built using **React JS**, **Tailwind CSS**, and **React Router**.  
+This project showcases a complete front-end car rental platform with attractive UI, smooth animations, and authentication pages.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🏠 Beautiful Home Page with Hero Section  
+- 🚘 Featured Cars Listing  
+- 🎥 Video Section Modal  
+- ⭐ Feature Highlights Section  
+- 🔐 Login & Register Pages  
+- 📱 Fully Responsive Design  
+- 🎨 Tailwind CSS Styling  
+- 🔄 Smooth Animations using ScrollReveal  
+- 🧭 Navigation with React Router  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **React JS** (Vite)
+- **Tailwind CSS**
+- **React Router DOM**
+- **Lucide React Icons**
+- **Material UI (MUI)**
+- **ScrollReveal**
+
+---
+
+## 📂 Project Structure
+
+src/
+├── assets/
+├── components/
+│ ├── FeaturedCars.jsx
+│ ├── Features.jsx
+│ ├── Footer.jsx
+│ ├── Hero.jsx
+│ ├── Home.jsx
+│ ├── Layout.jsx
+│ ├── Nav.jsx
+│ └── VideoSection.jsx
+├── pages/
+│ ├── Login.jsx
+│ └── Register.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
+
+2️⃣ Navigate to Project Folder
+
+cd carRental_ReactJS
+
+3️⃣ Install Dependencies
+
+npm install
+
+npm run dev
+
+📄 License
+
+This project is open-source and free to use for learning and personal projects.
+
+⭐ Support
+
+If you like this project:
+
+⭐ Star the repo
+
+🍴 Fork it
+
+🧑‍💻 Experiment & build more features
+4️⃣ Start Development Server
+
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+
+git clone https://github.com/DineshSethu001/carRental_ReactJS.git
