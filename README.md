@@ -31,24 +31,9 @@ This project showcases a complete front-end car rental platform with attractive 
 ---
 
 ## 📂 Project Structure
+<img width="350" height="400" alt="structure" src="https://github.com/user-attachments/assets/203602ba-8378-4ec9-a691-11c990a1153e" />
 
-src/
-├── assets/
-├── components/
-│ ├── FeaturedCars.jsx
-│ ├── Features.jsx
-│ ├── Footer.jsx
-│ ├── Hero.jsx
-│ ├── Home.jsx
-│ ├── Layout.jsx
-│ ├── Nav.jsx
-│ └── VideoSection.jsx
-├── pages/
-│ ├── Login.jsx
-│ └── Register.jsx
-├── App.jsx
-├── main.jsx
-└── index.css
+
 
 2️⃣ Navigate to Project Folder
 
